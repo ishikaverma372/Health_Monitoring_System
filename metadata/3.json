@@ -1,0 +1,35 @@
+{
+    "name": "Dr. Prabhat Singh",
+    "address": "157 W 57th St APT 49B, Delhi, NY 10019",
+    "description": "Diagnosis: cold and cough",
+    "image": "http://www.sciencefriday.com/wp-content/uploads/2016/12/shutterstock_526242388.jpg",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Date",
+            "value": "23/Aug/2019"
+           
+        },
+        {
+            "trait_type": "Prescription",
+            "value": "Mucinex D, Paracetamol"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "50 Kg"
+        },
+        {
+            "trait_type": "Age",
+            "value": 18
+        },
+        {
+            "trait_type": "Height",
+            "value": "5'2"
+        },
+        {
+            "trait_type": "Allergies",
+            "value": "none"
+            
+        }
+    ]
+}
